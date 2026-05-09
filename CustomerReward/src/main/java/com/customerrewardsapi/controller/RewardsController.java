@@ -1,6 +1,5 @@
 package com.customerrewardsapi.controller;
 
-
 import com.customerrewardsapi.dto.RewardSummary;
 import com.customerrewardsapi.dto.TransactionRequest;
 import com.customerrewardsapi.model.Transaction;
@@ -11,7 +10,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-
 import java.net.URI;
 import java.util.List;
 
