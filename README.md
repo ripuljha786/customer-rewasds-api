@@ -160,7 +160,6 @@ src/main/java/com/rewards/
                    TransactionNotFoundException,
                    GlobalExceptionHandler
 ```
-
 ## Sample Data
 
 | Customer ID | Name | Transactions |
