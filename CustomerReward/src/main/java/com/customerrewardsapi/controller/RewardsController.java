@@ -79,4 +79,5 @@ public class RewardsController {
         rewardsService.deleteTransaction(transactionId);
         return ResponseEntity.noContent().build();
     }
+
 }
