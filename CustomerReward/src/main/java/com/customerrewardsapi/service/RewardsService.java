@@ -1,6 +1,5 @@
 package com.customerrewardsapi.service;
 
-
 import com.customerrewardsapi.dto.MonthlyPoints;
 import com.customerrewardsapi.dto.RewardSummary;
 import com.customerrewardsapi.dto.TransactionRequest;
@@ -12,7 +11,6 @@ import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Comparator;
