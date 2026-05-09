@@ -16,7 +16,6 @@ Spring Boot REST API that calculates reward points per customer based on purchas
 
 ```
 git clone https://github.com/ripuljha786/customer-rewasds-api.git
-cd customer-rewards-api
 ```
 
 **On Windows:**
